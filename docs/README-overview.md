@@ -133,7 +133,7 @@ graph LR
     C --> F[Analytics<br/>Ready Data]
 ```
 
-## 🛠️ Technical Features Covered
+## Technical Features Covered
 
 ### Delta Lake Capabilities
 
