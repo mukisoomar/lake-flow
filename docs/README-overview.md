@@ -1,6 +1,6 @@
 # Databricks Lake Flow CTAS Examples - Documentation Overview
 
-This document provides a comprehensive overview of the documentation added to the Databricks Lake Flow CTAS examples, making it easier to understand and implement advanced data engineering patterns.
+This document provides an overview of the documentation added to the Databricks Lake Flow CTAS examples, making it easier to understand and implement advanced data engineering patterns.
 
 ## Documentation Structure
 
