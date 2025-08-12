@@ -1,0 +1,22 @@
+# Databricks Lake Flow - Python Dependencies
+# ==========================================
+
+# Core data processing
+pandas>=1.5.0
+numpy>=1.21.0
+
+# Databricks connectivity (choose one or both)
+databricks-connect>=13.0.0  # For Spark-based connections
+databricks-sql-connector>=2.0.0  # For SQL-based connections
+
+# Optional: Additional data processing
+pyarrow>=10.0.0  # For better pandas performance
+openpyxl>=3.0.0  # For Excel file support
+
+# Development and testing
+pytest>=7.0.0
+python-dotenv>=0.19.0  # For environment variable management
+
+# Optional: Jupyter support for development
+jupyter>=1.0.0
+ipykernel>=6.0.0
